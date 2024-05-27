@@ -1,0 +1,30 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-i2b2.js
+inputModule2:
+  class: File
+  path: python/acute-nasopharyngitis-primary-care-diphtheria---primary.py
+inputModule3:
+  class: File
+  path: python/acute-nasopharyngitis-primary-care-insertion---primary.py
+inputModule4:
+  class: File
+  path: python/acute-nasopharyngitis-primary-care---primary.py
+inputModule5:
+  class: File
+  path: python/acute-nasopharyngitis-primary-care-nasopharynx---primary.py
+inputModule6:
+  class: File
+  path: python/acute-nasopharyngitis-primary-care-virology---primary.py
+inputModule7:
+  class: File
+  path: python/acute-nasopharyngitis-primary-care-myiasis---primary.py
+inputModule8:
+  class: File
+  path: python/acute-nasopharyngitis-primary-care-nasopharyngogram---primary.py
+inputModule9:
+  class: File
+  path: python/nasopharyngitis---primary.py
+inputModule10:
+  class: File
+  path: python/output-cases.py
